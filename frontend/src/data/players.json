@@ -1,0 +1,727 @@
+{
+  "sourceUrl": "https://www.kaggle.com/datasets/kanchana1990/football-transfer-value-intelligence-2024",
+  "builtAt": "2026-02-21",
+  "players": [
+    {
+      "id": "418560",
+      "name": "Erling Haaland",
+      "nationality": "Norway",
+      "marketValueEur": 200000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "433177",
+      "name": "Bukayo Saka",
+      "nationality": "England",
+      "marketValueEur": 130000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "349066",
+      "name": "Alexander Isak",
+      "nationality": "Sweden",
+      "marketValueEur": 120000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "568177",
+      "name": "Cole Palmer",
+      "nationality": "England",
+      "marketValueEur": 120000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "357662",
+      "name": "Declan Rice",
+      "nationality": "England",
+      "marketValueEur": 120000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "598577",
+      "name": "Florian Wirtz",
+      "nationality": "Germany",
+      "marketValueEur": 110000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "687626",
+      "name": "Moisés Caicedo",
+      "nationality": "Ecuador",
+      "marketValueEur": 110000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "478573",
+      "name": "Ryan Gravenberch",
+      "nationality": "Netherlands",
+      "marketValueEur": 90000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "495666",
+      "name": "William Saliba",
+      "nationality": "France",
+      "marketValueEur": 90000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "534033",
+      "name": "Alexis Mac Allister",
+      "nationality": "Argentina",
+      "marketValueEur": 85000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "451276",
+      "name": "Dominik Szoboszlai",
+      "nationality": "Hungary",
+      "marketValueEur": 85000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "648195",
+      "name": "Enzo Fernández",
+      "nationality": "Argentina",
+      "marketValueEur": 85000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "709726",
+      "name": "Hugo Ekitiké",
+      "nationality": "France",
+      "marketValueEur": 85000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "1056993",
+      "name": "Estêvão",
+      "nationality": "Brazil",
+      "marketValueEur": 80000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "406635",
+      "name": "Phil Foden",
+      "nationality": "England",
+      "marketValueEur": 80000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "520624",
+      "name": "Bruno Guimarães",
+      "nationality": "Brazil",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "413039",
+      "name": "Bryan Mbeumo",
+      "nationality": "Cameroon",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "435338",
+      "name": "Gabriel Magalhães",
+      "nationality": "Brazil",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "316264",
+      "name": "Martin Ødegaard",
+      "nationality": "Norway",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "423440",
+      "name": "Martín Zubimendi",
+      "nationality": "Spain",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "357565",
+      "name": "Rodri",
+      "nationality": "Spain",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "397033",
+      "name": "Sandro Tonali",
+      "nationality": "Italy",
+      "marketValueEur": 75000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "434675",
+      "name": "Cody Gakpo",
+      "nationality": "Netherlands",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "475959",
+      "name": "Josko Gvardiol",
+      "nationality": "Croatia",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "420243",
+      "name": "Jurriën Timber",
+      "nationality": "Netherlands",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "517894",
+      "name": "Matheus Cunha",
+      "nationality": "Brazil",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "503743",
+      "name": "Morgan Rogers",
+      "nationality": "England",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "455661",
+      "name": "Nick Woltemade",
+      "nationality": "Germany",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "325443",
+      "name": "Viktor Gyökeres",
+      "nationality": "Sweden",
+      "marketValueEur": 70000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "583255",
+      "name": "Antoine Semenyo",
+      "nationality": "Ghana",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "479999",
+      "name": "Eberechi Eze",
+      "nationality": "England",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "626724",
+      "name": "João Pedro",
+      "nationality": "Brazil",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "486049",
+      "name": "Jérémy Doku",
+      "nationality": "Belgium",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "557459",
+      "name": "Micky van de Ven",
+      "nationality": "Netherlands",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "429014",
+      "name": "Morgan Gibbs-White",
+      "nationality": "England",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "445939",
+      "name": "Omar Marmoush",
+      "nationality": "Egypt",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "460939",
+      "name": "Tijjani Reijnders",
+      "nationality": "Netherlands",
+      "marketValueEur": 65000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "744149",
+      "name": "Adam Wharton",
+      "nationality": "England",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "503733",
+      "name": "Anthony Gordon",
+      "nationality": "England",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "627442",
+      "name": "Benjamin Sesko",
+      "nationality": "Slovenia",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "973085",
+      "name": "Carlos Baleba",
+      "nationality": "Cameroon",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "355915",
+      "name": "Cristian Romero",
+      "nationality": "Argentina",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "567576",
+      "name": "Elliot Anderson",
+      "nationality": "England",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "487465",
+      "name": "Pedro Neto",
+      "nationality": "Portugal",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "258004",
+      "name": "Rúben Dias",
+      "nationality": "Portugal",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "566931",
+      "name": "Xavi Simons",
+      "nationality": "Netherlands",
+      "marketValueEur": 60000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "309400",
+      "name": "Kai Havertz",
+      "nationality": "Germany",
+      "marketValueEur": 55000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "923831",
+      "name": "Leny Yoro",
+      "nationality": "France",
+      "marketValueEur": 55000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "392757",
+      "name": "Marc Guéhi",
+      "nationality": "England",
+      "marketValueEur": 55000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "543499",
+      "name": "Mohammed Kudus",
+      "nationality": "Ghana",
+      "marketValueEur": 55000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "1005649",
+      "name": "Murillo",
+      "nationality": "Brazil",
+      "marketValueEur": 55000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "536835",
+      "name": "Amad Diallo",
+      "nationality": "Cote d'Ivoire",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "583189",
+      "name": "Anthony Elanga",
+      "nationality": "Sweden",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "357119",
+      "name": "Ibrahima Konaté",
+      "nationality": "France",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "614258",
+      "name": "Levi Colwill",
+      "nationality": "England",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "284857",
+      "name": "Marc Cucurella",
+      "nationality": "Spain",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "503987",
+      "name": "Noni Madueke",
+      "nationality": "England",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "659813",
+      "name": "Piero Hincapié",
+      "nationality": "Ecuador",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "607223",
+      "name": "Rayan Cherki",
+      "nationality": "France",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "472423",
+      "name": "Reece James",
+      "nationality": "England",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "502821",
+      "name": "Riccardo Calafiori",
+      "nationality": "Italy",
+      "marketValueEur": 50000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "811779",
+      "name": "Alejandro Garnacho",
+      "nationality": "Argentina",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "431755",
+      "name": "Dejan Kulusevski",
+      "nationality": "Sweden",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "655488",
+      "name": "Gabriel Martinelli",
+      "nationality": "Brazil",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "315858",
+      "name": "Gianluigi Donnarumma",
+      "nationality": "Italy",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "623570",
+      "name": "Iliman Ndiaye",
+      "nationality": "Senegal",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "661053",
+      "name": "Jarrad Branthwaite",
+      "nationality": "England",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "466805",
+      "name": "Nico González",
+      "nationality": "Spain",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "743591",
+      "name": "Savinho",
+      "nationality": "Brazil",
+      "marketValueEur": 45000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "485706",
+      "name": "Amadou Onana",
+      "nationality": "Belgium",
+      "marketValueEur": 42000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "743600",
+      "name": "Andrey Santos",
+      "nationality": "Brazil",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "394327",
+      "name": "Boubacar Kamara",
+      "nationality": "France",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "240306",
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "433188",
+      "name": "Curtis Jones",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "365108",
+      "name": "Dan Ndoye",
+      "nationality": "Switzerland",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "556385",
+      "name": "Destiny Udogie",
+      "nationality": "Italy",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "711337",
+      "name": "Evanilson",
+      "nationality": "Brazil",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "670882",
+      "name": "Jamie Gittens",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "420002",
+      "name": "Jean-Philippe Mateta",
+      "nationality": "France",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "735570",
+      "name": "João Gomes",
+      "nationality": "Brazil",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "429983",
+      "name": "Jørgen Strand Larsen",
+      "nationality": "Norway",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "820374",
+      "name": "Kobbie Mainoo",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "866246",
+      "name": "Lucas Bergvall",
+      "nationality": "Sweden",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "521964",
+      "name": "Malick Thiaw",
+      "nationality": "Germany",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "326031",
+      "name": "Matthijs de Ligt",
+      "nationality": "Netherlands",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "730861",
+      "name": "Milos Kerkez",
+      "nationality": "Hungary",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "890721",
+      "name": "Myles Lewis-Skelly",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "743413",
+      "name": "Nico O'Reilly",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "553875",
+      "name": "Pedro Porro",
+      "nationality": "Spain",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "578391",
+      "name": "Rayan Aït-Nouri",
+      "nationality": "Algeria",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "503981",
+      "name": "Tino Livramento",
+      "nationality": "England",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "1012534",
+      "name": "Yankuba Minteh",
+      "nationality": "The Gambia",
+      "marketValueEur": 40000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "484547",
+      "name": "Jeremie Frimpong",
+      "nationality": "Netherlands",
+      "marketValueEur": 38000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "601883",
+      "name": "Matheus Nunes",
+      "nationality": "Portugal",
+      "marketValueEur": 38000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "763079",
+      "name": "Abdukodir Khusanov",
+      "nationality": "Uzbekistan",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "413403",
+      "name": "Ezri Konsa",
+      "nationality": "England",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "610849",
+      "name": "Liam Delap",
+      "nationality": "England",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "620322",
+      "name": "Malo Gusto",
+      "nationality": "France",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "346314",
+      "name": "Trevoh Chalobah",
+      "nationality": "England",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "388165",
+      "name": "Yoane Wissa",
+      "nationality": "DR Congo",
+      "marketValueEur": 35000000.0,
+      "valuationDate": "2025-12-08"
+    },
+    {
+      "id": "572265",
+      "name": "Lorenzo Lucca",
+      "nationality": "",
+      "marketValueEur": 25000000.0,
+      "valuationDate": "2025-12-22"
+    },
+    {
+      "id": "522784",
+      "name": "Taty Castellanos",
+      "nationality": "",
+      "marketValueEur": 25000000.0,
+      "valuationDate": "2025-12-22"
+    },
+    {
+      "id": "387626",
+      "name": "Leon Bailey",
+      "nationality": "",
+      "marketValueEur": 18000000.0,
+      "valuationDate": "2025-12-22"
+    }
+  ]
+}
